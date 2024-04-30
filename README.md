@@ -1,5 +1,6 @@
 # Red-Wine-Quality-Predictions
 
+<img src="pictures/red_wine.png" width="300">
 ---
 
 ## Contents
