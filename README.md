@@ -59,9 +59,11 @@
 
 ## :robot: Models
 
-*The models are saved and can be found in the `models` directory.*
+*The dataset was split into training and test sets in a 7:3 ratio. Each model was validated using 5-fold cross validation to tune hyperparameters. The accuracy of the predictions was used as the metric for evaluation. The hyperparameters that resulted in the highest accuracy were chosen for the final training of the models.*
 
-*For a detailed look into the training parameters and testing results for each model, please refer to the corresponding Jupyter notebook files located in the repository.*
+> *For a detailed look into the training parameters and testing results for each model, please refer to the corresponding Jupyter notebook files located in the repository.*
+
+> *The models are saved and can be found in the `models` directory.*
 
 ---
 
