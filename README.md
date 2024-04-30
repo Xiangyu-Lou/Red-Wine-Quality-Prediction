@@ -1,7 +1,6 @@
 # Red-Wine-Quality-Predictions
 
 <img src="pictures/red_wine.png" width="300">
----
 
 ## Contents
 :book: **[Introduction](#introduction)** | :scroll: **[Data Description](#data-description)** | :bar_chart: **[Data Visualization](#data-visualization)** | :robot: **[Models](#models)** | :trophy: **[Results](#results)**
